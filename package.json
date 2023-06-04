@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "express": "^4.18.2",
     "nodemon": "^2.0.22"
   },
   "scripts": {

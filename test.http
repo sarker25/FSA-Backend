@@ -1,0 +1,7 @@
+GET http://localhost:4000/generateRandValue?start=5&end=10
+
+###
+GET http://localhost:4000/countCharacter?string=full*stack%army45
+
+###
+GET http://localhost:4000/generatePerson?person=['firstName']
